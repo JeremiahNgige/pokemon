@@ -1,6 +1,6 @@
 .Pokecard{
     background:white;
-    border-radius: 5px;
+    border-radius: 15px;
     text-align: center;
     width: 250px;
     padding: 10px;
@@ -10,4 +10,13 @@
 
 .Pokecard-data{
     font-size:85%;
+}
+.Pokecard-img{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:200px;
+    background-color: honeydew;
+    border-radius: 10px;
+    margin-bottom: 1rem;
 }
