@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Application in action
+
+ ![landing page](https://github.com/JeremiahNgige/pokemon/blob/master/src/imgs/pokedex1.png) 
+ <br>
+
+ ![landing page](https://github.com/JeremiahNgige/pokemon/blob/master/src/imgs/poked.png) <br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
