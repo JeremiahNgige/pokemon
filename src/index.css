@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=DotGothic16');
 body {
   margin: 0;
-  font-family:Tangerine;
+  font-family:DotGothic16;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color:#eceff1;
